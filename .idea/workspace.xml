@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hNnFrzy2s3EBEPGUYXvBSGbO4A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ContactsPage/Images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="" />
+      <created>1599860324818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599860324818</updated>
+      <workItem from="1599860328253" duration="88000" />
+      <workItem from="1599860423986" duration="1550000" />
+      <workItem from="1599944867103" duration="612000" />
+      <workItem from="1600006823662" duration="4472000" />
+      <workItem from="1600108870638" duration="4293000" />
+      <workItem from="1600175221225" duration="11622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600020423376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600020423376" />
+    <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="323" width="1013" height="678" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1600189892735" />
+    <state x="805" y="245" key="run.anything.popup" timestamp="1600108949343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="805" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600108949343" />
+  </component>
+</project>
