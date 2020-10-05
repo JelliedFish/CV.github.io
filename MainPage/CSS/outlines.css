@@ -21,7 +21,7 @@ footer {
 
 #IK{
   margin: 20px;
-  padding: 20px 20px 20px 31px;
+  padding: 20px 20px 20px 30px;
 }
 
 header {
@@ -51,6 +51,22 @@ a {
   color: black;
 }
 
+h2 {
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index:3;
+  font-size: 40px;
+  color: white;
+  letter-spacing: 2px;
+  border: 8px solid;
+  padding: 12px 15px;
+  margin: 0;
+  text-transform: uppercase;
+  font-family: arial, serif;
+  text-align: center;
+}
 
 p {
   background-color: #ffffff;
