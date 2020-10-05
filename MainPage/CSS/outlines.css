@@ -33,10 +33,6 @@ header {
   height: 215px;
 }
 
-.video-content{
-  position: relative;
-}
-
 .back-for-video{
   background-color: rgba(55,55,55,0.34);
 }
