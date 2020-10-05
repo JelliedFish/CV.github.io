@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="index.html">
-      <change afterPath="$PROJECT_DIR$/MainPage/Video/backmp4.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainPage/Video/backwebm.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainPage/Video/waves.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainPage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/MainPage/CSS/outlines.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +86,7 @@
       <workItem from="1600108870638" duration="4293000" />
       <workItem from="1600175221225" duration="13633000" />
       <workItem from="1600272416521" duration="920000" />
-      <workItem from="1601912015519" duration="6237000" />
+      <workItem from="1601912015519" duration="7041000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <created>1600195399926</created>
@@ -122,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600196073728</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MainPage defects">
+      <created>1601918724367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601918724367</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html" />
+    <MESSAGE value="MainPage defects" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainPage defects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600195493397">
@@ -164,10 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1601918594770">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1601919261137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601918594770" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601919261137" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
