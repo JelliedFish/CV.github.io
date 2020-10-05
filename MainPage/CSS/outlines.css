@@ -18,7 +18,7 @@ body {
   height: 100%;
   loop: loop;
   autoplay: autoplay;
-  preload: auto;
+  muted: muted;
 }
 
 
