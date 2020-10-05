@@ -34,8 +34,11 @@ header {
 }
 
 .video-content{
-  background-color: rgba(55,55,55,0.34);
   position: relative;
+}
+
+.back-for-video{
+  background-color: rgba(55,55,55,0.34);
 }
 
 nav {
