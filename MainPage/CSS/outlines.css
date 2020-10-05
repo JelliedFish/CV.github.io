@@ -57,8 +57,9 @@ a {
 }
 
 h2 {
-  margin-left: auto;
-  margin-top: auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
   z-index:3;
   font-size: 40px;
   color: rgba(150,230,150,0.8);
