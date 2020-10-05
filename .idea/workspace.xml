@@ -84,7 +84,7 @@
       <workItem from="1600108870638" duration="4293000" />
       <workItem from="1600175221225" duration="13633000" />
       <workItem from="1600272416521" duration="920000" />
-      <workItem from="1601912015519" duration="11863000" />
+      <workItem from="1601912015519" duration="12254000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <created>1600195399926</created>
@@ -198,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601924534064</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="MainPage defects">
+      <created>1601925270549</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925270549</updated>
+    </task>
+    <task id="LOCAL-00018" summary="MainPage defects">
+      <created>1601925545283</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925545283</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,10 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601915987025" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601924454973">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601925233778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601924454973" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601925233778" />
     <state x="1024" y="424" key="Github.ShareDialog" timestamp="1600194769334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,10 +255,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1601924535649">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1601925546326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601924535649" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601925546326" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
