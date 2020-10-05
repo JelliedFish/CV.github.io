@@ -33,6 +33,11 @@ header {
   height: 215px;
 }
 
+.video-content{
+  background-color: rgba(55,55,55,0.34);
+  position: relative;
+}
+
 nav {
   display: flex;
   align-items: center;
