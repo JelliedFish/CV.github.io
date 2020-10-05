@@ -29,7 +29,7 @@ header {
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
-  background-color: white;
+  background-color: rgba(150,230,150,0.4);
   height: 215px;
 }
 
