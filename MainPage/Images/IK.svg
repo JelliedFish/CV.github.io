@@ -9,6 +9,6 @@
     </filter>
   </defs>
   <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#IK)">
-    <text id="IK-2" data-name="IK" transform="translate(2 78)" stroke="#5caf5e" stroke-width="2" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">IK</tspan></text>
+    <text id="IK-2" data-name="IK" transform="translate(2 78)" stroke="#96e696" stroke-width="2" font-size="70" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">IK</tspan></text>
   </g>
 </svg>
