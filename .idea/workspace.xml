@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainPage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/MainPage/CSS/outlines.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,28 +87,7 @@
       <workItem from="1600108870638" duration="4293000" />
       <workItem from="1600175221225" duration="13633000" />
       <workItem from="1600272416521" duration="920000" />
-      <workItem from="1601912015519" duration="37525000" />
-    </task>
-    <task id="LOCAL-00014" summary="MainPage defects">
-      <created>1601923487997</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1601923487997</updated>
-    </task>
-    <task id="LOCAL-00015" summary="MainPage defects">
-      <created>1601923737384</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1601923737384</updated>
-    </task>
-    <task id="LOCAL-00016" summary="MainPage defects">
-      <created>1601924534064</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1601924534064</updated>
+      <workItem from="1601912015519" duration="37861000" />
     </task>
     <task id="LOCAL-00017" summary="MainPage defects">
       <created>1601925270549</created>
@@ -434,7 +411,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602001132870</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="MainPage defects">
+      <created>1602001588305</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1602001588305</updated>
+    </task>
+    <task id="LOCAL-00064" summary="MainPage defects">
+      <created>1602001669858</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1602001669858</updated>
+    </task>
+    <task id="LOCAL-00065" summary="MainPage defects">
+      <created>1602001752878</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1602001752878</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,10 +475,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602001134153">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602001754126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602001134153" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602001754126" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

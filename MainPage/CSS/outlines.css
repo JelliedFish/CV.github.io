@@ -56,7 +56,6 @@ main {
   flex-shrink: 1;
   width: 100%;
   height: 100%;
-  background-color: #ff994f;
 }
 
 .who{
@@ -80,8 +79,8 @@ main {
 }
 
 footer {
-  flex: 0 0 150px;
-  background: blue;
+  flex: 0 0 100px;
+  background: lightgreen;
 }
 
 
