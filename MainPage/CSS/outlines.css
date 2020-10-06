@@ -1,6 +1,8 @@
 
 
-
+body{
+  overflow-x: hidden;
+}
 
 header {
   display: flex;
@@ -38,15 +40,16 @@ a {
 
 .video-content{
   margin: 0;
+  background-color: #f36dff;
   position: relative;
 }
 
 #video-main-background{
   position: absolute;
+  background-color: #ff994f;
   left: 0;
   right: 0;
-  width: auto;
-  height: auto;
+  width: 100vw;
 }
 
 .name {
