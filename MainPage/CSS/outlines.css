@@ -1,17 +1,27 @@
 
 
-body{
 
+
+
+html, body {margin: 0}
+
+.all {
+  border: 2px solid #000;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100vw;
+  height: 100vh;
 }
 
 header {
+  flex: 0 0 215px;
   display: flex;
   border: 2px solid gainsboro;
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
   background-color: rgba(150,230,150,0.4);
-  height: 215px;
+
 }
 
 #IK{
@@ -38,37 +48,36 @@ a {
 }
 
 
-.video-content{
-  position: relative;
-  margin: 0;
-  height: 100%;
-  background-color: #f36dff;
-  overflow: hidden;
+main {
+  flex: 1 1 auto;
+
 }
 
 #video-main-background{
-  position: absolute;
-  left: 0;
-  right: 0;
-  width: 50%;
-  height: 50%;
+  flex-shrink: 1;
+  width: 100%;
+  height: 100%;
   background-color: #ff994f;
-
 }
 
 .name {
   position: absolute;
   color: lightgreen;
-  top: 50%;
+  top: 60%;
   left: 50%;
 }
 
 
-
-
 footer {
-  background-color: #f3faff;
-  border: 2px solid #7fc1ff;
+  flex: 0 0 150px;
+  background: blue;
 }
+
+
+
+
+
+
+
 
 
