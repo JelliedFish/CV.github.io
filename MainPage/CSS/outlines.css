@@ -42,6 +42,7 @@ a {
 .video-content{
   position: relative;
   height: 100vh;
+  width: 100vw;
 }
 
 #video-main-background{
