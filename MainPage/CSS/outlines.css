@@ -79,18 +79,18 @@ main {
 }
 
 .name, .developer {
-  font-size: 40px;
-  color: black;
+  font-size: 60px;
+  color: white;
   text-shadow: lightgreen 0 0 2px;
 }
 
 .developer{
-  font-size: 25px;
+  font-size: 40px;
 }
 
 footer {
   flex: 0 0 100px;
-  background: lightgreen;
+  background-color: rgba(150,230,150,0.4);
 }
 
 

@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
-      <change beforePath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" afterDir="false" />
-    </list>
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,21 +85,7 @@
       <workItem from="1600108870638" duration="4293000" />
       <workItem from="1600175221225" duration="13633000" />
       <workItem from="1600272416521" duration="920000" />
-      <workItem from="1601912015519" duration="40312000" />
-    </task>
-    <task id="LOCAL-00020" summary="MainPage defects">
-      <created>1601925727923</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1601925727923</updated>
-    </task>
-    <task id="LOCAL-00021" summary="MainPage defects">
-      <created>1601931322877</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1601931322877</updated>
+      <workItem from="1601912015519" duration="40611000" />
     </task>
     <task id="LOCAL-00022" summary="MainPage defects">
       <created>1601933153624</created>
@@ -433,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602004296518</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="MainPage defects">
+      <created>1602004710272</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1602004710272</updated>
+    </task>
+    <task id="LOCAL-00070" summary="MainPage defects">
+      <created>1602004857081</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1602004857081</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,10 +473,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602004297820">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602004858328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602004297820" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602004858328" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
