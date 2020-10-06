@@ -1,7 +1,7 @@
 
 
 body{
-  overflow-x: hidden;
+
 }
 
 header {
@@ -38,19 +38,13 @@ a {
 }
 
 
-.video-content{
-  margin: 0;
-  background-color: #f36dff;
-  position: relative;
-}
 
 #video-main-background{
-  position: absolute;
-  background-color: #ff994f;
+  position: fixed;
   left: 0;
   right: 0;
-  max-width: 100vw;
-  max-height: 100vh;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .name {
