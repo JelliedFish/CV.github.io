@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainPage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/MainPage/CSS/outlines.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +89,7 @@
       <workItem from="1600108870638" duration="4293000" />
       <workItem from="1600175221225" duration="13633000" />
       <workItem from="1600272416521" duration="920000" />
-      <workItem from="1601912015519" duration="25356000" />
+      <workItem from="1601912015519" duration="30408000" />
     </task>
     <task id="LOCAL-00001" summary="index.html">
       <created>1600195399926</created>
@@ -411,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601941034950</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="MainPage defects">
+      <created>1601978710533</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1601978710533</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,10 +463,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1601941036217">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1601978711964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601941036217" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601978711964" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
