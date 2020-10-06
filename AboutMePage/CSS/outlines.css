@@ -32,3 +32,167 @@ a {
   font-family: "Montserrat", "Arial", sans-serif;
   color: black;
 }
+
+
+main{
+  background-color: #7fc1ff;
+  display: flex;
+  flex-direction: column;
+}
+
+.block-top, .block-middle, .block-bottom{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.skills, .photo-about-me, .animal, .code-success{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+
+}
+
+h2{
+  padding: 30px;
+  margin: 30px;
+  align-self: start;
+}
+
+h3 {
+  margin-top: 40px;
+  padding: 10px;
+  font-size: 25px;
+  align-self: center;
+}
+
+ul, dl, pre {
+  background-color: #c7e4ff;
+  align-self: center;
+}
+
+dt{
+    padding: 5px;
+  margin: 5px;
+}
+
+b {
+  padding: 5px;
+  margin: 5px;
+  background-color: black;
+  color: white;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+strong {
+  font-weight: lighter;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+
+.container {
+  margin: 10px auto;
+  width: 300px;
+  text-align: center;
+}
+
+
+.progress {
+  margin-left: 20px;
+  padding: 6px;
+  border-radius: 30px;
+  background: rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+}
+
+.progress-barGreat, .progress-barFine, .progress-barOkay, .progress-barBad {
+  height: 12px;
+  border-radius: 25px;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+}
+
+
+.progress-moved .progress-barGreat {
+  width: 85%;
+  background-color: lightgreen;
+}
+
+.progress-barFine{
+  width: 70%;
+  background-color: rgba(150,230,150,0.9);
+}
+
+
+.progress-barOkay {
+  width: 50%;
+  background-color: rgba(150,230,150,0.7);
+}
+
+
+.progress-barBad{
+  width: 35%;
+  background-color: rgba(150,230,150,0.5);
+}
+
+.progress-barGreat{
+  animation: progressAnimationGreat 6s;
+}
+
+.progress-barFine{
+  animation: progressAnimationFine 6s;
+}
+
+.progress-barOkay{
+  animation: progressAnimationOkay 6s;
+}
+
+.progress-barBad{
+  animation: progressAnimationBad 6s;
+}
+
+
+
+
+
+.photo-about-me{
+  background-color: #f36dff;
+}
+
+.my-photo {
+  background-color: white;
+  border: black solid;
+  padding: 20px;
+  margin: 50px 20px 20px;
+  align-self: center;
+
+}
+
+.skills{
+  background-color: #ff994f;
+}
+
+@keyframes progressAnimationGreat {
+  0%   { width: 5%; background-color: rgba(150,230,150,0.3);}
+  100% { width: 85%; background-color: lightgreen; }
+}
+
+@keyframes progressAnimationFine {
+  0%   { width: 5%; background-color: rgba(150,230,150,0.3);}
+  100% { width: 70%; background-color: rgba(150,230,150,0.9); }
+}
+
+@keyframes progressAnimationOkay {
+  0%   { width: 5%; background-color: rgba(150,230,150,0.3);}
+  100% { width: 50%; background-color: rgba(150,230,150,0.7); }
+}
+@keyframes progressAnimationBad {
+  0%   { width: 5%; background-color: rgba(150,230,150,0.3);}
+  100% { width: 35%; background-color: rgba(150,230,150,0.5); }
+}
