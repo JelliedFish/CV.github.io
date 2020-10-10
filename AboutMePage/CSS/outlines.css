@@ -35,7 +35,6 @@ a {
 
 
 main{
-  background-color: #7fc1ff;
   display: flex;
   flex-direction: column;
 }
@@ -53,6 +52,11 @@ main{
 
 }
 
+.photo-about-me {
+  background-color: lightgreen;
+  align-self: center;
+}
+
 h2{
   padding: 30px;
   margin: 30px;
@@ -67,13 +71,20 @@ h3 {
 }
 
 ul, dl, pre {
-  background-color: #c7e4ff;
   align-self: center;
+}
+
+dl {
+  width: 400px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 dt{
     padding: 5px;
-  margin: 5px;
+    margin: 5px;
 }
 
 b {
@@ -162,7 +173,6 @@ strong {
 
 
 .photo-about-me{
-  background-color: #f36dff;
 }
 
 .my-photo {
@@ -175,7 +185,6 @@ strong {
 }
 
 .skills{
-  background-color: #ff994f;
 }
 
 @keyframes progressAnimationGreat {
