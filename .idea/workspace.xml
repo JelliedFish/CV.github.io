@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +90,8 @@
       <workItem from="1600175221225" duration="13633000" />
       <workItem from="1600272416521" duration="920000" />
       <workItem from="1601912015519" duration="53126000" />
-    </task>
-    <task id="LOCAL-00025" summary="MainPage defects">
-      <created>1601934433216</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1601934433216</updated>
+      <workItem from="1602369180426" duration="661000" />
+      <workItem from="1602369942695" duration="4283000" />
     </task>
     <task id="LOCAL-00026" summary="MainPage defects">
       <created>1601934553522</created>
@@ -433,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602074592073</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="About me changes">
+      <created>1602369669325</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1602369669325</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,11 +452,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index.html" />
     <MESSAGE value="MainPage defects" />
-    <option name="LAST_COMMIT_MESSAGE" value="MainPage defects" />
+    <MESSAGE value="About me changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="About me changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600195493397">
@@ -476,10 +481,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602074594910">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602369673185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602074594910" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602369673185" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
