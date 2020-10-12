@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
+      <change afterPath="$PROJECT_DIR$/AboutMePage/Images/dino.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" afterDir="false" />
@@ -59,19 +60,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Images" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\Animal_animation" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage\Images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,14 +92,14 @@
       <workItem from="1600272416521" duration="920000" />
       <workItem from="1601912015519" duration="53126000" />
       <workItem from="1602369180426" duration="661000" />
-      <workItem from="1602369942695" duration="4283000" />
-    </task>
-    <task id="LOCAL-00026" summary="MainPage defects">
-      <created>1601934553522</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1601934553522</updated>
+      <workItem from="1602369942695" duration="6808000" />
+      <workItem from="1602454197586" duration="1523000" />
+      <workItem from="1602455733775" duration="1153000" />
+      <workItem from="1602456901779" duration="334000" />
+      <workItem from="1602457249036" duration="1755000" />
+      <workItem from="1602539053276" duration="361000" />
+      <workItem from="1602539426410" duration="955000" />
+      <workItem from="1602540529839" duration="3095000" />
     </task>
     <task id="LOCAL-00027" summary="MainPage defects">
       <created>1601934868058</created>
@@ -436,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602369669325</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="AboutMe Page">
+      <created>1602374439811</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1602374439811</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +466,8 @@
     <MESSAGE value="index.html" />
     <MESSAGE value="MainPage defects" />
     <MESSAGE value="About me changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="About me changes" />
+    <MESSAGE value="AboutMe Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="AboutMe Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600195493397">
@@ -469,10 +478,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601915987025" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601931289957">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602543409931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601931289957" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602543409931" />
     <state x="1024" y="424" key="Github.ShareDialog" timestamp="1600194769334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -481,10 +490,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602369673185">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602374441592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602369673185" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602374441592" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

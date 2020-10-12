@@ -1,4 +1,8 @@
 
+*{
+
+  font-family: monospace;
+}
 
 header {
   flex: 0 0 215px;
@@ -37,29 +41,57 @@ a {
 main{
   display: flex;
   flex-direction: column;
-  flex-grow: 1;
 }
 
 .block-top, .block-middle, .block-bottom{
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
 }
+
+.block-top {
+  background: linear-gradient(to bottom, rgb(250,250,250), rgba(150,230,150,0.25));
+);
+}
+
+.block-middle {
+  align-items: center;
+  background: linear-gradient(to bottom, rgba(150,230,150,0.25), rgba(150,230,150,0.33));
+}
+
+.block-bottom {
+  background: linear-gradient(to bottom, rgba(150,230,150,0.33), rgba(150,230,150,0.45));
+}
+
+
 
 .skills, .photo-about-me, .animal, .code-success{
   display: flex;
   flex-direction: column;
   width: 50%;
-
 }
 
+
+.block-bottom {
+  justify-content: center;
+}
+
+.animal {
+  padding: 20px;
+  margin: 20px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
 .code-success{
-  background-color: rgba(150,230,150,0.4);
+
 }
 
 .photo-about-me {
   height: 100%;
-  background-color: rgba(150,230,150,0.4);
 }
 
 
@@ -114,7 +146,7 @@ ul {
 
 
 
-dl {
+ .list-skills {
   width: 600px;
   display: flex;
   flex-flow: row wrap;
@@ -122,18 +154,64 @@ dl {
   align-items: center;
 }
 
-dt{
+.list-skills dt{
     padding: 5px;
     margin: 5px;
 }
 
-b {
+.list-skills b {
   padding: 5px;
   margin: 5px;
   background-color: rgba(7,29,100,0.92);
   border: lightgreen solid;
   color: white;
   font-size: 25px;
+}
+
+
+.study dl {
+  display: flex;
+  flex-direction: column;
+}
+
+.study dt {
+  margin: 5px;
+  text-align: center;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.study dd {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border: lightgreen solid;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.study p {
+  display: inline-block;
+  margin: 5px auto;
+  align-self: center;
+  background-color: rgba(7,29,100,0.92);
+  border: lightgreen solid;
+  color: white;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.study h4 {
+  text-align: center;
+}
+
+.study h3 {
+  text-align: center;
 }
 
 li {
@@ -226,6 +304,23 @@ strong {
 
 }
 
+#Dino {
+  width: 60px;
+  animation-name: dinoAnimation;
+  animation-duration: 5s;
+}
+
+#Dino img {
+  width: 100%;
+  height: auto;
+}
+
+
+@keyframes dinoAnimation {
+  0% {left: 0}
+  50% {left: 50px}
+  100% {left: 100px}
+}
 
 @keyframes progressAnimationGreat {
   0%   { width: 5%; background-color: rgba(150,230,150,0.3);}

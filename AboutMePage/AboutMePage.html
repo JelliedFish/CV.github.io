@@ -125,7 +125,7 @@
         <section class = "photo-about-me">
             <img class = "my-photo" src="Images/my_photo.png" alt="Мое фото" width="250" height="350">
             <h3>Сильные качества</h3>
-            <dl>
+            <dl class = "list-skills">
                 <dt>
                    <b> Трудолюбивый </b>
                 </dt>
@@ -186,45 +186,47 @@ System.out.println("Ничего страшного - не сдавайся");
             </div>
         </section>
 
-        <section class="animal">
-            <h2>Мое тотемное животное</h2>
-            <p>Здесь будет животина</p>
+
+        <section class = "study">
+
+            <h3>Обучение</h3>
+            <article class ="university">
+                <div class = "itmo"><p>Университет ИТМО
+                    <time datetime="2018-09-01">2018</time>-<time datetime="2022-05-31">2022</time></p></div>
+
+                <dl class = "list-study">
+                    <dt> Рейтинг Forbes </dt>
+                    <dd> <del>9-е место</del> 7-е место в рейтинге вузов России по версии Forbes </dd>
+
+                    <dt> Рейтинг RAEX </dt>
+                    <dd> 3-е место по версии <b>RAEX</b><br>
+                        Единственный в
+                        мире семикратный победитель международной
+                        студенческой командной олимпиады по
+                        программированию <b>ACM ICPC</b></dd>
+                </dl>
+
+
+                <h4><em>Факультет:</em><i> Информационные системы и технологии </i></h4>
+            </article>
+
+            <article class = "school">
+                <div class = "fml"><p>Президентский ФМЛ 239
+                    <time datetime="2014-09-01">2014</time>-<time datetime="2018-05-31">2018</time></p></div>
+
+                <dl>
+                    <dt> Рейтинг Министерства РФ </dt>
+                    <dd> Лучшая школа России на 2015-2018 годы по версии Министерства науки и высшего образования РФ  </dd>
+                </dl>
+            </article>
         </section>
     </div>
 
     <div class="block-bottom">
-    <section class = "study">
-
-        <h3>Обучение</h3>
-        <article>
-        <p>Университет ИТМО
-         <time datetime="2018-09-01">2018</time>-<time datetime="2022-05-31">2022</time></p>
-        
-            <dl>
-            <dt> Рейтинг Forbes </dt>
-            <dd> <del>9-е место</del> 7-е место в рейтинге вузов России по версии Forbes </dd>
-
-            <dt> Рейтинг RAEX </dt>
-            <dd> 3-е место по версии RAEX; Единственный в<br>
-                мире семикратный победитель международной<br>
-                студенческой командной олимпиады по<br>
-                программированию ACM ICPC<br> </dd>
-            </dl>
-
-
-        <h4> <em>Факультет:</em><i> Информационные системы и технологии </i></h4>
-        </article>
-
-        <article>
-            <p>Президентский ФМЛ 239
-                <time datetime="2014-09-01">2014</time>-<time datetime="2018-05-31">2018</time></p>
-
-            <dl>
-                <dt> Рейтинг Министерства РФ </dt>
-                <dd> Лучшая школа России на 2015-2018 годы по версии Министерства науки и высшего образования РФ  </dd>
-            </dl>
-        </article>
-    </section>
+        <section class="animal">
+            <h3>Мое тотемное животное</h3>
+            <div id = "Dino" ><img src="Images/dino.gif" alt="animal"></div>
+        </section>
     </div>
 </main>
 
