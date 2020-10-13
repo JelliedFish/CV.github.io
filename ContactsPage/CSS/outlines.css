@@ -51,6 +51,13 @@ main {
   justify-content: space-around;
 }
 
+.block-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .block-left .name-email-tel .form {
   display: flex;
   flex-direction: column;
