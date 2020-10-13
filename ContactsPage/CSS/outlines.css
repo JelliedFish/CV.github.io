@@ -49,16 +49,11 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-}
-
-.block-left {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 
-.block-left .name-email-tel .form {
+
+.block-left, .name-email-tel, .form {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -97,14 +92,14 @@ main {
 }
 
 .name-email-tel {
-  background: gray;
+  background: black;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
 
 .name-email-tel h2 address{
-  color: white;
+   color: white;
 }
 
 .name-email-tel h2 {
@@ -113,8 +108,8 @@ main {
 
 
 .form {
-  border: gray solid;
-  padding: 50px;
+  border: black 1px solid;
+  padding: 100px;
   flex-direction: column;
 }
 
