@@ -65,7 +65,7 @@ main {
   align-items: center;
 }
 
-.block-right table {
+.block-right td {
   padding: 20px;
   margin: 20px;
   width: 200px;
