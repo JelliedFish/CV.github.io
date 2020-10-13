@@ -1,122 +1,44 @@
 
 
-html,
-body {
-  margin: 0;
-  font-family: "Montserrat", "Arial", sans-serif;
-  font-size: 14px;
-  line-height: 20px;
+.all {
+  border: 2px solid #000;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100vw;
+  height: 100vh;
 }
 
-body {
-  min-width: 430px;
-  border: 2px dashed #c7e4ff;
+header {
+  flex: 0 0 215px;
+  display: flex;
+  border: 2px solid gainsboro;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: rgba(150,230,150,0.4);
+
 }
 
-html::before,
-body::before,
-header::before,
-footer::before,
-main::before {
-  color: #7fc1ff;
+#IK{
+  margin: 20px;
+  padding: 20px 20px 20px 30px;
 }
 
-main,
-header,
-footer {
-  background-color: #f3faff;
-  border: 2px solid #7fc1ff;
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 20px;
+  padding: 20px;
 }
 
-nav,
-section,
-article,
-aside {
-  background-color: #f9f7ff;
-  border: 2px solid #9779ec;
+
+td {
+  width: 400px;
 }
 
-nav::before,
-section::before,
-article::before,
-aside::before {
-  color: #9779ec;
-}
-
-h1 {
-  font-size: 18px;
-  background-color: #ffffff;
-  border: 2px solid #ff994f;
-}
-
-h1::before {
-  content: "h1";
-  color: #ff994f;
-}
-
-p {
-  background-color: #ffffff;
-  border: 2px solid #f36dff;
-}
-
-p::before {
-  color: #f36dff;
-  content: "p";
-}
-
-* {
-  position: relative;
-  padding: 25px 25px 20px;
-  margin: 0;
-  border-radius: 4px;
-}
-
-*:not(:last-child) {
-  margin-bottom: 20px;
-}
-
-*::before {
-  position: absolute;
-  top: 8px;
-  left: 10px;
-  font-weight: 700;
-  font-size: 11px;
-  line-height: 10px;
-  letter-spacing: 0.04em;
-}
-
-html::before {
-  content: "html";
-}
-
-body::before {
-  content: "body";
-}
-
-main::before {
-  content: "main";
-}
-
-header::before {
-  content: "header";
-}
-
-footer::before {
-  content: "footer";
-}
-
-section::before {
-  content: "section";
-}
-
-article::before {
-  content: "article";
-}
-
-aside::before {
-  content: "aside";
-}
-
-nav::before {
-  content: "nav";
+td img {
+  width: 100%;
+  height: auto;
 }
