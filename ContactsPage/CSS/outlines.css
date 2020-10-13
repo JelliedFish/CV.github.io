@@ -65,7 +65,7 @@ main {
   align-items: center;
 }
 
-.block-right td {
+.block-right td div {
   padding: 20px;
   margin: 20px;
   width: 200px;
