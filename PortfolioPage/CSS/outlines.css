@@ -44,6 +44,10 @@ a {
   color: black;
 }
 
+main {
+  background: linear-gradient(to bottom, rgb(250,250,250), rgba(150,230,150,0.45));
+}
+
 table {
   width: 100%;
   margin: 0 auto;
@@ -54,18 +58,77 @@ td {
 }
 
 td div {
-  margin: 0 auto;
+  padding: 20px;
+  margin: 20px;
   width: 450px;
   height: 450px;
   background-repeat: no-repeat;
-  background-size: 300px auto;
+  background-size: 200px auto;
   background-clip: border-box;
+  background-position: center center;
+}
+
+.android:hover {
+  background-image: url(../Images/android.png);
 }
 
 .android {
-  background-image: url(../Images/android.png);
-  background-color: #ff994f;
+  background-image: url(../Images/android_disable.png);
 }
+
+
+.apple:hover {
+  background-image: url(../Images/apple.png);
+}
+
+
+.apple {
+  background-image: url(../Images/apple_disable.png);
+}
+
+.java:hover {
+  background-image: url(../Images/Java.png);
+}
+
+.java {
+  background-image: url(../Images/Java_disable.png);
+}
+
+.dart:hover {
+  background-size: 300px auto;
+
+  background-image: url(../Images/dart.png);
+}
+
+.dart {
+  background-size: 300px auto;
+
+  background-image: url(../Images/dart_disable.png);
+}
+
+.kotlin:hover {
+  background-size: 300px auto;
+
+  background-image: url(../Images/kotlin.png);
+}
+
+.kotlin {
+  background-size: 300px auto;
+
+  background-image: url(../Images/kotlin_disable.png);
+}
+
+.python:hover {
+  background-image: url(../Images/python.png);
+}
+
+.python {
+  background-image: url(../Images/python_disable.png);
+}
+
+
+
+
 
 td img{
   padding: 10px;
