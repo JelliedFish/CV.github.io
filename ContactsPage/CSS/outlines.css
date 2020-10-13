@@ -65,10 +65,27 @@ main {
 }
 
 .block-right table {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 150px auto;
+  background-clip: border-box;
+  background-position: center center;
+}
+
+.VK {
+  background-image: url(../Images/vk.png);
+}
+
+.Github{
+
+  background-image: url(../Images/github.png);
+}
+
+.Telegram {
+  background-image: url(../Images/telegram.png);
 }
 
 .name-email-tel {
