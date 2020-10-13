@@ -51,8 +51,22 @@ main {
 .block-left {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+}
+
+.name-email-tel .form {
+  display: flex;
+  align-items: center;
+}
+
+.name-email-tel {
+  background: gray;
+  flex-direction: row;
+}
+
+.form {
+  flex-direction: column;
 }
 
 .name-lastname {
