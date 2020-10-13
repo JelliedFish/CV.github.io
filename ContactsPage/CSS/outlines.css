@@ -63,6 +63,13 @@ main {
   align-items: center;
 }
 
+.block-right table {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
 .name-email-tel {
   background: gray;
   flex-direction: row;
