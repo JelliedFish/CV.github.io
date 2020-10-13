@@ -55,6 +55,11 @@ td {
   width: 33%;
 }
 
+td div {
+  margin: 0 auto;
+  width: 300px;
+}
+
 td img{
   padding: 10px;
   width: 100%;
