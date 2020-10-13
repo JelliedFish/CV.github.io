@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="MainPage defects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioPage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioPage/CSS/outlines.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioPage/PortfolioPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioPage/PortfolioPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,14 +97,7 @@
       <workItem from="1602539053276" duration="361000" />
       <workItem from="1602539426410" duration="955000" />
       <workItem from="1602540529839" duration="4567000" />
-      <workItem from="1602590636366" duration="6934000" />
-    </task>
-    <task id="LOCAL-00032" summary="MainPage defects">
-      <created>1601936679981</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1601936679981</updated>
+      <workItem from="1602590636366" duration="7248000" />
     </task>
     <task id="LOCAL-00033" summary="MainPage defects">
       <created>1601937288315</created>
@@ -444,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602599693721</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Portfolio Page">
+      <created>1602601172600</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1602601172600</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,10 +490,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602599695291">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602601173904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602599695291" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602601173904" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
