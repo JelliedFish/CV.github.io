@@ -46,18 +46,19 @@ a {
 
 table {
   width: 100%;
-  background-color: #ff994f;
   margin: 0 auto;
 }
 
 td {
-  background-color: #f36dff;
   width: 33%;
 }
 
-td div {
+.android {
   margin: 0 auto;
   width: 300px;
+  height: auto;
+  background-image: url(../Images/apple.png);
+
 }
 
 td img{
