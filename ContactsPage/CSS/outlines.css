@@ -73,9 +73,22 @@ main {
 .name-email-tel {
   background: gray;
   flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
+.name-email-tel h2 address{
+  color: white;
+}
+
+.name-email-tel h2 {
+  font-size: 20px;
+}
+
+
 .form {
+  border: gray solid;
+  padding: 50px;
   flex-direction: column;
 }
 
