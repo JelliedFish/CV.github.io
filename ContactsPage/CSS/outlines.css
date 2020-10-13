@@ -98,7 +98,7 @@ main {
   align-items: center;
 }
 
-.name-email-tel h2 address{
+.name-email-tel h2, address{
    color: white;
 }
 
