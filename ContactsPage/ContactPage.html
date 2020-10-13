@@ -10,8 +10,8 @@
 </head>
 <body>
 
-<header style="background-color: white; height: 215px">
-    <img src="Images/IK.png" alt="Logo" style="float: left">
+<header>
+    <img src="Images/IK.svg" alt="Logo">
     <nav style="float: right">
         <a href="/index.html"> Главная</a>
         <a href="/AboutMePage/AboutMePage.html"> Обо мне</a>
@@ -21,42 +21,47 @@
 </header>
 <main>
 
-    <section>
-        <h2>Козар Илья</h2>
-        <address>
-            Email: hungrydog757@gmail.com <br>
-            Тел.: 8-(921)-427-39-38
-        </address>
-    </section>
+    <div class = "block-left">
+        <section>
+            <h2>Козар Илья</h2>
+            <address>
+                Email: hungrydog757@gmail.com <br>
+                Тел.: 8-(921)-427-39-38
+            </address>
+        </section>
 
-    <section>
-        <form>
-            <label>
-                <input type="text" name="firstname" value="Введите имя:">
-            </label>
+        <section>
+            <form>
+                <div class = "name-lastname">
+                    <label>
+                        <input type="text" name="firstname" value="Введите имя:">
+                    </label>
 
-            <label>
-                <input type="text" name="lastname" value="Введите фамилию:">
-            </label>
-            <label>
-                <input type="email" name="email" value="Введите почту:">
-            </label>
-            <label>
-                <input type="text" name="message" value="Напишите мне:">
-            </label>
-            <input type="submit" name="submit" value="Отправить">
-        </form>
-    </section>
+                    <label>
+                        <input type="text" name="lastname" value="Введите фамилию:">
+                    </label>
+                </div>
+                <label>
+                    <input type="email" name="email" value="Введите почту:">
+                </label>
+                <label>
+                    <input type="text" name="message" value="Напишите мне:">
+                </label>
+                <input type="submit" name="submit" value="Отправить">
+            </form>
+        </section>
+    </div>
 
-    <aside>
-        <h2>Социальные сети</h2>
-        <table>
-            <tr> <td> <img src="Images/vk.png" alt="VK"> </td> </tr>
-            <tr> <td> <img src="Images/telegram.png" alt="VK"> </td> </tr>
-            <tr> <td> <img src="Images/github.png" alt="VK">  </td> </tr>
-        </table>
-    </aside>
-
+    <div class = "block-right">
+        <aside>
+            <h2>Социальные сети</h2>
+            <table>
+                <tr> <td> <img src="Images/vk.png" alt="VK"> </td> </tr>
+                <tr> <td> <img src="Images/telegram.png" alt="VK"> </td> </tr>
+                <tr> <td> <img src="Images/github.png" alt="VK">  </td> </tr>
+            </table>
+        </aside>
+    </div>
 
 </main>
 
