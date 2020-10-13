@@ -99,14 +99,7 @@
       <workItem from="1602539053276" duration="361000" />
       <workItem from="1602539426410" duration="955000" />
       <workItem from="1602540529839" duration="4567000" />
-      <workItem from="1602590636366" duration="5817000" />
-    </task>
-    <task id="LOCAL-00031" summary="MainPage defects">
-      <created>1601936120653</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1601936120653</updated>
+      <workItem from="1602590636366" duration="6934000" />
     </task>
     <task id="LOCAL-00032" summary="MainPage defects">
       <created>1601936679981</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602598694102</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Portfolio Page">
+      <created>1602599693721</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1602599693721</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,10 +492,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602598696177">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602599695291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602598696177" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602599695291" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
