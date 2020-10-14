@@ -112,6 +112,8 @@ main {
 
 
 .form {
+  width: 600px;
+  height: 800px;
   display: flex;
   border: black 1px solid;
   padding: 100px;
