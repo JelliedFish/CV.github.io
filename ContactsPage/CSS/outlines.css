@@ -92,11 +92,11 @@ main {
 
 .name-email-tel {
   align-self: end;
-  border: black 1px solid;
+  border: rgba(7,29,100,0.92) 2px solid;
   border-radius: 25px 25px 0px 0px;
   width: 400px;
   height: 150px;
-  background: black;
+  background: lightgreen;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
@@ -129,10 +129,17 @@ main {
   align-items: center;
 }
 
+.form label input {
+  padding: 5px;
+  margin: 5px;
+}
+
 .input {
+  border: rgba(7,29,100,0.92) 2px solid;
   padding: 10px;
   margin: 10px;
   align-self: center;
   color: lightgreen;
+  text-decoration: white;
 }
 
