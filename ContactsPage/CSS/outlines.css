@@ -114,7 +114,6 @@ main {
 
 
 .form {
-  background: yellow;
   width: 800px;
   height: 500px;
   display: flex;
@@ -136,11 +135,11 @@ main {
 }
 
 .input {
-  border: rgba(7,29,100,0.92) 2px solid;
+  border: white 2px solid;
   padding: 10px;
   margin: 10px;
   align-self: center;
-  color: lightgreen;
+  color: rgba(7,29,100,0.92);
   text-decoration: white;
 }
 
