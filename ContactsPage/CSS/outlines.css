@@ -114,7 +114,7 @@ main {
 
 
 .form {
-  width: 800px;
+  width: 700px;
   height: 500px;
   display: flex;
   border: black 1px solid;
@@ -127,5 +127,12 @@ main {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+}
+
+.input {
+  padding: 10px;
+  margin: 10px;
+  align-self: center;
+  color: lightgreen;
 }
 

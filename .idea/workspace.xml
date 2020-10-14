@@ -96,14 +96,7 @@
       <workItem from="1602539426410" duration="955000" />
       <workItem from="1602540529839" duration="4567000" />
       <workItem from="1602590636366" duration="17808000" />
-      <workItem from="1602675959077" duration="1386000" />
-    </task>
-    <task id="LOCAL-00060" summary="MainPage defects">
-      <created>1601999664296</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1601999664297</updated>
+      <workItem from="1602675959077" duration="1719000" />
     </task>
     <task id="LOCAL-00061" summary="MainPage defects">
       <created>1602000005419</created>
@@ -441,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602677263959</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Contact Page">
+      <created>1602677393521</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1602677393521</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,10 +490,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602677152787">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602677394577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602677152787" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602677394577" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -502,5 +502,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600108949343" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602677237370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602677237370" />
   </component>
 </project>
