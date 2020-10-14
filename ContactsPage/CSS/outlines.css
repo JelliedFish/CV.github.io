@@ -63,7 +63,7 @@ main {
 .block-right aside {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
 }
 
@@ -92,6 +92,9 @@ main {
 }
 
 .name-email-tel {
+  align-self: end;
+  width: 300px;
+  height: 200px;
   background: black;
   flex-direction: row;
   justify-content: space-between;
