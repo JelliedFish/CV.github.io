@@ -60,6 +60,8 @@ main {
 }
 
 .block-right aside {
+  height: 50%;
+  background: yellow;
   display: flex;
   flex-direction: column;
   justify-content: center;
