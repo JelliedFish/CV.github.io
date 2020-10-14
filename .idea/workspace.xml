@@ -98,21 +98,7 @@
       <workItem from="1602539426410" duration="955000" />
       <workItem from="1602540529839" duration="4567000" />
       <workItem from="1602590636366" duration="17808000" />
-      <workItem from="1602675959077" duration="683000" />
-    </task>
-    <task id="LOCAL-00055" summary="MainPage defects">
-      <created>1601997511878</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1601997511878</updated>
-    </task>
-    <task id="LOCAL-00056" summary="MainPage defects">
-      <created>1601997890510</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1601997890510</updated>
+      <workItem from="1602675959077" duration="1014000" />
     </task>
     <task id="LOCAL-00057" summary="MainPage defects">
       <created>1601998239382</created>
@@ -443,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602676633535</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Contact Page">
+      <created>1602676865882</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1602676865882</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Contact Page">
+      <created>1602676967059</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1602676967059</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
