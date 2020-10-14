@@ -149,3 +149,8 @@ main {
   color: white;
 }
 
+.input-text{
+  box-sizing: border-box;
+  resize: none;
+}
+
