@@ -116,6 +116,7 @@ main {
 
 
 .form {
+  align-items: center;
   width: 800px;
   height: 500px;
   display: flex;
@@ -124,17 +125,20 @@ main {
   flex-direction: column;
 }
 
-.name-lastname {
+
+.form label input {
+  padding: 5px;
+  margin: 5px;
+}
+
+
+
+.form .name-lastname {
   width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-}
-
-.form label input {
-  padding: 5px;
-  margin: 5px;
 }
 
 
