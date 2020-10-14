@@ -136,7 +136,6 @@ main {
 
 .input {
   border: white 2px solid;
-  padding: 10px;
   margin: 10px;
   align-self: center;
   color: rgba(7,29,100,0.92);
@@ -144,6 +143,9 @@ main {
 }
 
 .input input{
+  width: 100px;
+  height: 30px;
+  background-color: rgba(7,29,100,0.92);
   color: white;
 }
 
