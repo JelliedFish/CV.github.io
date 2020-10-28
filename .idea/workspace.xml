@@ -59,19 +59,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage\Images" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\Animal_animation" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -102,14 +102,7 @@
       <workItem from="1602590636366" duration="17808000" />
       <workItem from="1602675959077" duration="8589000" />
       <workItem from="1602696840597" duration="1253000" />
-      <workItem from="1603898199009" duration="882000" />
-    </task>
-    <task id="LOCAL-00073" summary="MainPage defects">
-      <created>1602074592072</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1602074592073</updated>
+      <workItem from="1603898199009" duration="1202000" />
     </task>
     <task id="LOCAL-00074" summary="About me changes">
       <created>1602369669325</created>
@@ -447,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602696891128</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="MainPage defects">
+      <created>1603899116042</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1603899116042</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,14 +467,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index.html" />
-    <MESSAGE value="MainPage defects" />
     <MESSAGE value="About me changes" />
     <MESSAGE value="AboutMe Page" />
     <MESSAGE value="About me demo" />
     <MESSAGE value="Portfolio Page" />
     <MESSAGE value="Contact Page" />
     <MESSAGE value="ContactPage.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="ContactPage.html" />
+    <MESSAGE value="MainPage defects" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainPage defects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600195493397">
@@ -497,10 +497,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600194783625" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1602696895171">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1603899117495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602696895171" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603899117495" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
