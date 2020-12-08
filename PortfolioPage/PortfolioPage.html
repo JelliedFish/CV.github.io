@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="ru">
-<head id="Portfolio">
+<html lang="ru" id="Portfolio">
+<head>
     <meta charset="UTF-8">
     <meta name="description" content="Раздел портфолио с ссылками на все работы">
     <meta name="keywords" content="Ссылки, Приложения, Java, Android, iOS, Flutter, Python, Kotlin">
@@ -44,14 +44,17 @@
 <script>
     function amountOfTags() {
 
-        let all = document.getElementById("Portfolio").getElementsByTagName("div");
+        const x = document.getElementById("Portfolio");
 
-        for (let i = 0 ; i < all.length; i++) {
-            alert(all[i]+" ")
-            alert(all[i].length)
-            alert(ans)
+        const tr = x.getElementsByTagName("tr");
+        alert(tr[0].tagName+"-"+tr.length)
 
-        }
+        const td = x.getElementsByTagName("td");
+        alert(td[0].tagName+"-"+td.length)
+
+        const table = x.getElementsByTagName("table");
+        alert(table[0].tagName+"-"+table.length)
+
     }
 
 </script>

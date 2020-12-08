@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add form and tags" />
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add form and tags">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContactsPage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/ContactsPage/CSS/outlines.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioPage/PortfolioPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioPage/PortfolioPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,14 +120,7 @@
       <workItem from="1606318531058" duration="2858000" />
       <workItem from="1606405008842" duration="2000" />
       <workItem from="1607086988549" duration="7060000" />
-      <workItem from="1607439817214" duration="1691000" />
-    </task>
-    <task id="LOCAL-00078" summary="Portfolio Page">
-      <created>1602598391156</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1602598391156</updated>
+      <workItem from="1607439817214" duration="4526000" />
     </task>
     <task id="LOCAL-00079" summary="Portfolio Page">
       <created>1602598694102</created>
@@ -461,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607441525210</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="add form and tags">
+      <created>1607441960849</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1607441960849</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,10 +589,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607351499069" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607441526754">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607441962030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607441526754" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607441962030" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -601,9 +605,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600108949343" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606342145327">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607443918890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606342145327" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607443918890" />
   </component>
 </project>
