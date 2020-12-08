@@ -161,7 +161,11 @@ main {
   height: 400px;
 }
 
-
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
 
 .open-button {
   background-color: #4444b8;
@@ -200,3 +204,9 @@ main {
 .cancel {
   background: #4444b8 ;
 }
+
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+
