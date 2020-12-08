@@ -38,12 +38,22 @@
 </main>
 
 <footer>
-    <div id = "result"> </div>
+    <button type="button" class="btn cancel" onclick="amountOfTags()">Calculate</button>
 </footer>
 
 <script>
-    const ans = amountOfTags();
-    document.getElementById('result').innerHTML = "<p>"+ans+"</p>";
+    function amountOfTags() {
+
+        let all = document.getElementById("Portfolio").getElementsByTagName("*");
+
+        for (let i = 0 ; i < all.length; i++) {
+            alert(all[i]+" ")
+            alert(all[i].length)
+            alert(ans)
+
+        }
+    }
+
 </script>
 </body>
 </html>
