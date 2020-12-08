@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add some JS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContactsPage/ContactPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ContactsPage/ContactPage.html" afterDir="false" />
-    </list>
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add form and tags" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,14 +116,7 @@
       <workItem from="1606318531058" duration="2858000" />
       <workItem from="1606405008842" duration="2000" />
       <workItem from="1607086988549" duration="7060000" />
-      <workItem from="1607439817214" duration="1367000" />
-    </task>
-    <task id="LOCAL-00077" summary="Portfolio Page">
-      <created>1602591149744</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1602591149745</updated>
+      <workItem from="1607439817214" duration="1691000" />
     </task>
     <task id="LOCAL-00078" summary="Portfolio Page">
       <created>1602598391156</created>
@@ -464,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607440158270</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="add form and tags">
+      <created>1607441525210</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1607441525210</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +489,8 @@
     <MESSAGE value="ContactPage.html" />
     <MESSAGE value="MainPage defects" />
     <MESSAGE value="add some JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some JS" />
+    <MESSAGE value="add form and tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="add form and tags" />
   </component>
   <component name="WindowStateProjectService">
     <state x="946" y="351" key="#Web_Browsers" timestamp="1606342383014">
@@ -587,10 +585,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607351499069" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607440159677">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607441526754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607440159677" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607441526754" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
