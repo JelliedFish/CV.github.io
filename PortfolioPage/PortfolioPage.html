@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
+<head id="Portfolio">
     <meta charset="UTF-8">
     <meta name="description" content="Раздел портфолио с ссылками на все работы">
     <meta name="keywords" content="Ссылки, Приложения, Java, Android, iOS, Flutter, Python, Kotlin">
@@ -38,7 +38,12 @@
 </main>
 
 <footer>
-
+    <div id = "result"> </div>
 </footer>
+
+<script>
+    const ans = amountOfTags();
+    document.getElementById('result').innerHTML = "<p>"+ans+"</p>";
+</script>
 </body>
 </html>
