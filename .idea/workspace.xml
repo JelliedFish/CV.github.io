@@ -19,17 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add form and tags">
-      <change afterPath="$PROJECT_DIR$/AboutMePage/Images/my_photos/my_photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMePage/Images/my_photos/my_photo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMePage/Images/my_photos/my_photo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMePage/Images/my_photos/my_photo4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="create some features">
       <change beforePath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMePage/Images/my_photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/Images/my_photos/my_photo0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContactsPage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/ContactsPage/CSS/outlines.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContactsPage/ContactPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ContactsPage/ContactPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,14 +119,7 @@
       <workItem from="1606318531058" duration="2858000" />
       <workItem from="1606405008842" duration="2000" />
       <workItem from="1607086988549" duration="7060000" />
-      <workItem from="1607439817214" duration="13472000" />
-    </task>
-    <task id="LOCAL-00081" summary="Portfolio Page">
-      <created>1602601172600</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1602601172600</updated>
+      <workItem from="1607439817214" duration="13791000" />
     </task>
     <task id="LOCAL-00082" summary="Portfolio Page">
       <created>1602601535126</created>
@@ -472,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607445080871</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="create some features">
+      <created>1607519347215</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1607519347215</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +493,8 @@
     <MESSAGE value="MainPage defects" />
     <MESSAGE value="add some JS" />
     <MESSAGE value="add form and tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="add form and tags" />
+    <MESSAGE value="create some features" />
+    <option name="LAST_COMMIT_MESSAGE" value="create some features" />
   </component>
   <component name="WindowStateProjectService">
     <state x="946" y="351" key="#Web_Browsers" timestamp="1606342383014">
@@ -596,10 +589,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607351499069" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607445085448">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607519348657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607445085448" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607519348657" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

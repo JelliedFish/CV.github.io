@@ -232,6 +232,13 @@ System.out.println("Ничего страшного - не сдавайся");
 
 
 <footer>
+
+    <button class="open-button" onclick="openForm()">Подробнее</button>
+
+    <div class="form-popup" id="myForm">
+        <p>Hello I'm the bot!</p>
+        <button type="button" class="cancel-button" onclick="closeForm()">Закрыть</button>
+    </div>
 </footer>
 
 <script>
@@ -244,6 +251,16 @@ System.out.println("Ничего страшного - не сдавайся");
             index = 1
         }
 }
+
+    function openForm() {
+        document.getElementById("myForm").style.display = "block";
+    }
+
+    function closeForm() {
+        document.getElementById("myForm").style.display = "none";
+    }
+
+
 </script>
 
 </body>
