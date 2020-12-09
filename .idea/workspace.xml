@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="fix bags">
+    <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add chat bot v.0.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" afterDir="false" />
     </list>
@@ -120,14 +120,7 @@
       <workItem from="1606405008842" duration="2000" />
       <workItem from="1607086988549" duration="7060000" />
       <workItem from="1607439817214" duration="14229000" />
-      <workItem from="1607520117643" duration="603000" />
-    </task>
-    <task id="LOCAL-00084" summary="Portfolio Page">
-      <created>1602604673725</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1602604673725</updated>
+      <workItem from="1607520117643" duration="926000" />
     </task>
     <task id="LOCAL-00085" summary="Portfolio Page">
       <created>1602605733506</created>
@@ -465,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607519717571</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="add chat bot v.0.1">
+      <created>1607521272378</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521272390</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +497,8 @@
     <MESSAGE value="create some features" />
     <MESSAGE value="add css for chat bot" />
     <MESSAGE value="fix bags" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix bags" />
+    <MESSAGE value="add chat bot v.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chat bot v.0.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="946" y="351" key="#Web_Browsers" timestamp="1606342383014">
@@ -592,10 +593,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607351499069" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607519718853">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607521548417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607519718853" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607521548417" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
