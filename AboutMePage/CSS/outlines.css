@@ -302,6 +302,7 @@ strong {
 }
 
 .my-photo {
+  cursor: pointer;
   background-color: white;
   border: black solid;
   padding: 20px;

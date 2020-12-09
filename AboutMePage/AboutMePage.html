@@ -123,7 +123,7 @@
         </section>
 
         <section class = "photo-about-me">
-            <img class = "my-photo" src="Images/my_photo.png" alt="Мое фото" width="250" height="350">
+            <img id = "my-gallery" class = "my-photo" src="Images/my_photos/my_photo0.png" alt="Мое фото" width="250" height="350">
             <h3>Сильные качества</h3>
             <dl class = "list-skills">
                 <dt>
@@ -233,5 +233,18 @@ System.out.println("Ничего страшного - не сдавайся");
 
 <footer>
 </footer>
+
+<script>
+    let index = 1;
+    img = document.getElementById("my-gallery")
+    img.onclick = function (){
+    img.src = "Images/my_photos/my_photo"+index%5+".png"
+    index++
+        if (index === 100){
+            index = 1
+        }
+}
+</script>
+
 </body>
 </html>
