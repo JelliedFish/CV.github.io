@@ -236,13 +236,19 @@ System.out.println("Ничего страшного - не сдавайся");
     <button class="open-button" onclick="openForm()">Подробнее</button>
 
     <div class="form-popup" id="myForm">
-        <p>Hello I'm the bot!</p>
+        <label><b>Message</b></label>
+        <label>
+            <textarea id= "message" placeholder="Type message.." name="msg" required></textarea>
+        </label>
+
+        <button type="submit" class="btn" onclick="addMessage()" >Send</button>
         <button type="button" class="cancel-button" onclick="closeForm()">Закрыть</button>
     </div>
 </footer>
 
 <script>
     let index = 1;
+    let messages = []
     img = document.getElementById("my-gallery")
     img.onclick = function (){
     img.src = "Images/my_photos/my_photo"+index%5+".png"
@@ -259,6 +265,14 @@ System.out.println("Ничего страшного - не сдавайся");
     function closeForm() {
         document.getElementById("myForm").style.display = "none";
     }
+
+    function addMessage() {
+        let m = document.getElementById("message").getAttribute("placeholder")
+        messages.push(m)
+        alert(m)
+    }
+
+
 
 
 </script>
