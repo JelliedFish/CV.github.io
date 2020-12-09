@@ -369,19 +369,33 @@ strong {
   position: fixed;
   border-radius: 5px;
   bottom: 60px;
-  right: 10px;
+  right: 55px;
   border: 3px solid #2e1d7c;
   z-index: 9;
-  background: linear-gradient(to bottom, rgb(250,250,250), rgba(150,230,150,0.45));
+  background: linear-gradient(to bottom, rgb(81, 145, 200), rgb(133, 73, 172));
 }
 
+
 .form-container {
-  max-width: 300px;
+  max-width: 600px;
   padding: 10px;
   background-color: white;
 }
 
+label{
+  display: block;
+}
+#message{
+  border-radius: 5px;
+  width: 200px;
+}
 
+#window-messages {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 500px;
+  max-width: 350px;
+}
 .cancel-button {
   background-color: #2d418a;
 }
@@ -390,3 +404,21 @@ strong {
   opacity: 1;
 }
 
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 2px;
+  border: #2e1d7c;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50px;
+  height: 20px;
+}
+
+.content {
+  flex-grow: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}

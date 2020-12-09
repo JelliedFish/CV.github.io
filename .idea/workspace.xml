@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3c77a3-85da-4d85-b318-47fc0f1895d8" name="Default Changelist" comment="add chat bot v.0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/AboutMePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMePage/CSS/outlines.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,19 +61,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\my_photos" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images" />
-      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\Animal_animation" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\my_photos" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\Utils\Bubble" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Video" />
       <recent name="C:\Users\hungr_000\WebstormProjects\untitled\MainPage\Images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\my_photos" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\ContactsPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\PortfolioPage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images" />
+      <recent name="C:\Users\hungr_000\WebstormProjects\untitled\AboutMePage\Images\Animal_animation" />
     </key>
   </component>
   <component name="RunManager" selected="Attach to Node.js/Chrome.Unnamed">
@@ -120,14 +122,7 @@
       <workItem from="1606405008842" duration="2000" />
       <workItem from="1607086988549" duration="7060000" />
       <workItem from="1607439817214" duration="14229000" />
-      <workItem from="1607520117643" duration="926000" />
-    </task>
-    <task id="LOCAL-00085" summary="Portfolio Page">
-      <created>1602605733506</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1602605733506</updated>
+      <workItem from="1607520117643" duration="10927000" />
     </task>
     <task id="LOCAL-00086" summary="Portfolio Page">
       <created>1602626465439</created>
@@ -465,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607521272390</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="add chat bot v.0.1">
+      <created>1607521835502</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1607521835502</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,10 +503,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add chat bot v.0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="946" y="351" key="#Web_Browsers" timestamp="1606342383014">
+    <state x="946" y="351" key="#Web_Browsers" timestamp="1607527359529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="946" y="351" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1606342383014" />
+    <state x="946" y="351" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1607527359529" />
     <state x="603" y="181" width="1092" height="810" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607100671097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -593,10 +595,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607351499069" />
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607521548417">
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2" timestamp="1607521837125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607521548417" />
+    <state x="741" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607521837125" />
     <state x="344" y="323" width="1013" height="678" key="dock-window-1" timestamp="1600189892735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -609,9 +611,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600108949343" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607443918890">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607531014480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607443918890" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607531014480" />
   </component>
 </project>

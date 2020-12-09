@@ -236,12 +236,21 @@ System.out.println("Ничего страшного - не сдавайся");
     <button class="open-button" onclick="openForm()">Подробнее</button>
 
     <div class="form-popup" id="myForm">
-        <label><b>Message</b></label>
-        <label>
-            <textarea id= "message" placeholder="Type message.." name="msg" required></textarea>
-        </label>
+        <div id="window-messages" style="display: flex; flex-direction: column">
 
-        <button type="submit" class="btn" onclick="addMessage()" >Send</button>
+        </div>
+
+                <label style="color: white; padding: 5px" for="message"><b>Message</b></label>
+            <div class = "content">
+
+                <div>
+                    <textarea id= "message" placeholder="Type message.." required></textarea>
+                </div>
+
+                <div>
+                   <button type="submit" class="btn" onclick="addMessage()" >Send</button>
+                </div>
+        </div>
         <button type="button" class="cancel-button" onclick="closeForm()">Закрыть</button>
     </div>
 </footer>
@@ -249,6 +258,9 @@ System.out.println("Ничего страшного - не сдавайся");
 <script>
     let index = 1;
     let messages = []
+    let messages_1 = ["Привет, ", "Добрый вечер, ", "Добрый день, ", "Здравствуй, "]
+    let messages_2 = ["бро, ", "друг, ", "добрый человек, ", "странствующий, "]
+    let messages_3 = ["я только учусь, но очень стараюсь ответить...", "не знаю, как ответить, но пусть у тебя все будет круто !", "вопрос хороший , но думаю все надо откинуть в сторону и просто чилить", " к сожалению , я единсвенный в мире слепой бот, поэтому я не вижу твои вопросы :( Но я хочу , чтобы у тебя все было круто !"]
     img = document.getElementById("my-gallery")
     img.onclick = function (){
     img.src = "Images/my_photos/my_photo"+index%5+".png"
@@ -267,11 +279,38 @@ System.out.println("Ничего страшного - не сдавайся");
     }
 
     function addMessage() {
-        let m = document.getElementById("message").value
-        messages.push(m)
-        alert(m)
+        let m = document.getElementById("message")
+        let m_str = m.value
+        messages.push(m_str)
+        m.value = ""
+
+        let div = document.getElementById("window-messages")
+
+        if (m_str !== "") {
+            div.innerHTML += "<p style='align-self: flex-start;margin: 10px; background-color: white; border: aqua; border-radius: 4px; max-width: 250px; word-wrap: break-word; padding: 5px' onclick='deleteMessage(this)' >" + m_str + "</p>"
+        }
+        let index1 = getRandomInt(0,3)
+        let index2 = getRandomInt(0,3)
+        let index3 = getRandomInt(0,3)
+
+        setTimeout(getAnswer, 1000, messages_1[index1]+messages_2[index2]+messages_3[index3])
     }
 
+    function getAnswer(message) {
+
+
+        let div = document.getElementById("window-messages")
+        div.innerHTML += "<p style='align-self: flex-end; margin: 10px; color: white; background-color: #2e1d7c; border: aqua; border-radius: 4px; max-width: 250px; word-wrap: break-word; padding: 5px' onclick='deleteMessage(this)'>"+message+"</p> "
+    }
+
+    function deleteMessage(m){
+        m.hidden = true;
+    }
+
+    function getRandomInt(min, max)
+    {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
 
 
 
